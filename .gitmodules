@@ -1,6 +1,8 @@
-[submodule "content/post"]
-	path = content/post
-	url = https://github.com/minetaro12/blog-content
 [submodule "themes/github-style"]
 	path = themes/github-style
 	url = https://github.com/minetaro12/github-style
+	branch = master
+[submodule "content/post"]
+	path = content/post
+	url = https://github.com/minetaro12/blog-content
+	branch = main
